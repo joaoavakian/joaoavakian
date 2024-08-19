@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, me chamo João Avakian👋<br>🔭 Hoje estudo back-end e trabalho com Help Desk<br>🌱 Estudando Rust, PHP e Java.<br>😄 Prononmes: Ele/dele</p>
+<p align="left">Olá, me chamo João Avakian👋<br>🔭 Hoje estudo back-end e trabalho com Help Desk<br>🌱 Estudando Rust, PHP e Java.<br>😄 Pronomes: Ele/dele</p>
 
 ###
 
