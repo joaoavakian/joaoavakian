@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, me chamo João Avakian👋<br>🔭 Hoje estudo back-end e trabalho com Help Desk<br>🌱 Estudando Rust, PHP e Java.<br>😄 Pronomes: Ele/dele</p>
+<p align="left">Olá, me chamo João Avakian👋<br>🔭 Hoje estudo back-end e trabalho com Help Desk<br>🌱 Estudando principalmente CyberSecurity mas há repositórios não relacionados no perfil, como projetos pessoais ou exercícios.<br>😄 Pronomes: Ele/dele</p>
 
 ###
 
@@ -48,18 +48,12 @@
 ###
 
 <div align="left">
-  <a href="instagram.com/joaoavk__" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/users/289885560510742558" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://br.linkedin.com/in/jo%C3%A3oavakian" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/seedprimeavk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
   <a href="https://tryhackme.com/p/avakian" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   </a>
