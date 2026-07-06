@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, me chamo João Avakian👋<br>🔭 Hoje estudo back-end e trabalho com Help Desk<br>🌱 Estudando principalmente CyberSecurity mas há repositórios não relacionados no perfil, como projetos pessoais ou exercícios.<br>😄 Pronomes: Ele/dele</p>
+<p align="left">Olá, me chamo João Avakian👋<br>🔭 Hoje estudo backend e trabalho como Quality Assurance<br>🌱 Estudando principalmente CyberSecurity mas há repositórios não relacionados no perfil, como projetos pessoais ou exercícios principalmente em php.<br>😄 Pronomes: Ele/dele</p>
 
 ###
 
